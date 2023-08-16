@@ -1,0 +1,6 @@
+npm install pm2 -g
+npm install
+
+pm2 start src/index.js
+
+made by ustaa
